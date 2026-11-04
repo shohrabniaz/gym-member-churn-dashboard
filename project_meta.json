@@ -1,10 +1,17 @@
 {
-  "seq": 69,
   "title": "Gym and Fitness Centre Member Churn Analysis Dashboard",
-  "slug": "gym-and-fitness-centre-member-churn-analysis-dashboard",
+  "old_slug": "gym-and-fitness-centre-member-churn-analysis-dashboard",
+  "slug": "gym-member-churn-dashboard",
   "folder": "Gym_And_Fitness_Centre_Member_Churn_Analysis",
   "kind": "governance",
-  "body_words": 238,
+  "body_words": 302,
+  "source": "MICT Academic",
   "project_id": "Academic Project 12",
-  "source": "MICT Academic"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  }
 }
